@@ -108,7 +108,9 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c5211a42-ae8d-4f17-9f45-50507cdacccb)
+
+![cryp exp11](https://github.com/user-attachments/assets/f9c1cccf-eae2-4cec-90a9-20485b2aea0f)
+
 
 ## RESULT:
 Thus the Implement-Elliptic-curve-Cryptography had been successfully implemented using C.
