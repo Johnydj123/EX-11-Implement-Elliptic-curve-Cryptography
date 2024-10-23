@@ -109,7 +109,7 @@ int main()
 ```
 ## OUTPUT:
 
-![cryp exp11](https://github.com/user-attachments/assets/f9c1cccf-eae2-4cec-90a9-20485b2aea0f)
+![WhatsApp Image 2024-10-23 at 15 42 17_cf0d01cc](https://github.com/user-attachments/assets/073cc018-17cf-4c5b-811e-1125b37c52b1)
 
 
 ## RESULT:
